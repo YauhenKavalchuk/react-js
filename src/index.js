@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import CounterButton from './03_state/Lesson.jsx';
+import Lesson from './04_props/Lesson.jsx';
 import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(<CounterButton />, document.getElementById('root'));
+ReactDOM.render(<Lesson />, document.getElementById('root'));
 registerServiceWorker();
