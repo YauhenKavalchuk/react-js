@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+#root {
+  min-height: 100vh;
+  display: grid;
+  grid-auto-rows: auto 1fr auto;
+}
