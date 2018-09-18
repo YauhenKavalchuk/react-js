@@ -1,0 +1,15 @@
+.selectWrapper {
+  margin-bottom: 20px;
+  display: inline-block;
+  padding: 20px 40px;
+  background-color: #fff;
+}
+
+.selectWrapper,
+.selectWrapper select {
+  font-size: 20px;
+}
+
+.selectText {
+  margin-left: 10px;
+}

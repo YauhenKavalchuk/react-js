@@ -1,0 +1,30 @@
+.newsList {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  flex: 1 0 100%;
+}
+
+.news {
+  margin: 10px 0;
+  padding: 20px 30px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2),
+              0 25px 50px 0 rgba(0, 0, 0, 0.1);
+}
+
+.newsTitle {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.description span {
+  padding: 0 10px;
+}
+
+.description .text {
+  padding-left: 0;
+}
+
+.description span:not(:last-child) {
+  border-right: 1px solid #000;
+}
