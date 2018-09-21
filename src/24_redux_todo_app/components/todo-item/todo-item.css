@@ -1,0 +1,41 @@
+.todo-item {
+  font-size: 24px;
+  border-bottom: 1px solid #ededed;
+  min-height: 60px;
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding: 0 16px 0 60px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+
+.text {
+  font-family: 'Indie Flower', cursive;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.completed,
+.fa-check-circle {
+  color: #ccc;
+}
+
+.fa-times {
+  transition: all .3s ease;
+  color: rgba(175, 47, 47, 0.15);
+}
+
+.mark {
+  position: absolute;
+  left: 20px;
+}
+
+.todo-item:hover .fa-times {
+  color: rgba(175, 47, 47, 0.9);
+}
