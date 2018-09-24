@@ -13,7 +13,7 @@
 - [Fake online REST API (моковый API)](https://jsonplaceholder.typicode.com/)
 - [Hacker News (ресурс)](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Hacker News (описание API)](https://hn.algolia.com/api)
-- [# Redux-LocalStorage-Simple (репозиторий)](https://www.npmjs.com/package/redux-localstorage-simple)
+- [Redux-LocalStorage-Simple (репозиторий)](https://www.npmjs.com/package/redux-localstorage-simple)
 
 ### Полезные ссылки:
 - [React документация](https://reactjs.org/docs/getting-started.html)
@@ -21,7 +21,6 @@
 - [React lifecycle methods +16.3 (ресурс со ссылками)](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 - [React lifecycle methods less 16.3 (картинка)](https://webjustify.com/wp-content/uploads/2018/04/component-lifecycle.png)
 - [React Router (репозиторий)](https://github.com/ReactTraining/react-router)
-- [React документация](https://reactjs.org/docs/getting-started.html)
 
 ### Список уроков:
 - ReactJS #0 Введение в курс (Introduction)
