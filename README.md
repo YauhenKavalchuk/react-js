@@ -1,10 +1,11 @@
 
+
 #  React & Redux Tutorials
 
 ### Описание курса:
 В данном видео-курсе мы с вами рассмотрим базовые понятия фрэймворка **ReactJS**, актуальной на текущий момент версии **16.4**. Научимся создавать свои компоненты и элементарные приложения. Разберёмся, как подключается и как работает **React Router** и с его помощью напишем простое одностраничное приложение. А так же рассмотрим такой подход контроля данных в приложении, как **Redux**. И разберём как он взаимодействет с React, создав приложение - список задач.
 
-### Используемые ресурсы и инструменты:
+## Используемые ресурсы и инструменты:
 - [Atom (Редактор кода)](https://atom.io/)
 - [Create React App (рабочее окружение)](https://github.com/facebook/create-react-app)
 - [React Developer Tools (расширение для браузера)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ru)
@@ -15,7 +16,7 @@
 - [Hacker News (описание API)](https://hn.algolia.com/api)
 - [Redux-LocalStorage-Simple (репозиторий)](https://www.npmjs.com/package/redux-localstorage-simple)
 
-### Полезные ссылки:
+## Полезные ссылки:
 - [React (документация)](https://reactjs.org/docs/getting-started.html)
 - [Redux (документация)](https://redux.js.org/)
 - [React lifecycle methods +16.3 (ресурс со ссылками)](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
@@ -23,7 +24,15 @@
 - [React Transition Group (документация)](https://reactcommunity.org/react-transition-group/)
 - [React Router (репозиторий)](https://github.com/ReactTraining/react-router)
 
-### Список уроков:
+## Быстрый старт
+- Установите [Create React App](https://github.com/facebook/create-react-app): `npm i -g create-react-app`
+- Создайте рабочую папку: `npx create-react-app react-tutorial`
+- Клонируйте репозиторий: `git clone https://github.com/YauhenKavalchuk/react-js-tutorial.git`
+- Переместите всё содержимое репозитория в рабочую папку
+- Установите зависимости: `yarn install` или `npm install`
+- Перейдите в нужную ветку соответствующую уроку: `git checkout 02_components` или `git checkout 03_state` и т.д.
+
+## Список уроков:
 - React & Redux #0 Введение в курс (Introduction)
 - React & Redux #1 Плагины и окружение (Plugins & Environment)
 - React & Redux #2 Компоненты (Components)
@@ -50,7 +59,7 @@
 - React & Redux #22 Приложение "Список дел" на Реакт и Редакс (ToDo Appliction: React & Redux. Part II)
 - React & Redux #22 Приложение "Список дел" на Реакт и Редакс (ToDo Appliction: React & Redux. Part III)
 
-### Автор курса в социальных сетях:
+## Автор курса в социальных сетях:
 Social network | Link to Profile
 -----|-----
 **LinkedIn:** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="20" />](http://www.linkedin.com/in/YauhenKavalchuk)
