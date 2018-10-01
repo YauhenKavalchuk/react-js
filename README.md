@@ -19,6 +19,8 @@
 ## Полезные ссылки:
 - [React (документация)](https://reactjs.org/docs/getting-started.html)
 - [Redux (документация)](https://redux.js.org/)
+- [React Animations (документация)](https://reactcommunity.org/react-transition-group/)
+- [Redux (документация)](https://redux.js.org/)
 - [React lifecycle methods +16.3 (ресурс со ссылками)](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 - [React lifecycle methods less 16.3 (картинка)](https://webjustify.com/wp-content/uploads/2018/04/component-lifecycle.png)
 - [React Transition Group (документация)](https://reactcommunity.org/react-transition-group/)
@@ -31,6 +33,7 @@
 - Переместите всё содержимое репозитория в рабочую папку
 - Установите зависимости: `yarn install` или `npm install`
 - Перейдите в нужную ветку соответствующую уроку: `git checkout 02_components` или `git checkout 03_state` и т.д.
+- Запустите проект: `yarn start`
 
 ## Список уроков:
 - React & Redux #0 Введение в курс (Introduction)
@@ -56,8 +59,9 @@
 - React & Redux #20 Введение в Редакс (Redux Introduction)
 - React & Redux #21 Приложение и Редакс модули (Application & Redux modules)
 - React & Redux #22 Приложение "Список дел" на Реакт и Редакс (ToDo Appliction: React & Redux. Part I)
-- React & Redux #22 Приложение "Список дел" на Реакт и Редакс (ToDo Appliction: React & Redux. Part II)
-- React & Redux #22 Приложение "Список дел" на Реакт и Редакс (ToDo Appliction: React & Redux. Part III)
+- React & Redux #23 Приложение "Список дел" на Реакт и Редакс (ToDo Appliction: React & Redux. Part II)
+- React & Redux #24 Приложение "Список дел" на Реакт и Редакс (ToDo Appliction: React & Redux. Part III)
+- React & Redux #25 Анимации (React animations)
 
 ## Автор курса в социальных сетях:
 Social network | Link to Profile
