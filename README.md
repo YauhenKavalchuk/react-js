@@ -58,9 +58,9 @@
 - React & Redux #19 Роутер (React router. Part II)
 - React & Redux #20 Введение в Редакс (Redux Introduction)
 - React & Redux #21 Приложение и Редакс модули (Application & Redux modules)
-- React & Redux #22 Приложение "Список дел" на Реакт и Редакс (ToDo Appliction: React & Redux. Part I)
-- React & Redux #23 Приложение "Список дел" на Реакт и Редакс (ToDo Appliction: React & Redux. Part II)
-- React & Redux #24 Приложение "Список дел" на Реакт и Редакс (ToDo Appliction: React & Redux. Part III)
+- React & Redux #22 Список дел на Реакт и Редакс (ToDo Appliction: React & Redux. Part I)
+- React & Redux #23 Список дел на Реакт и Редакс (ToDo Appliction: React & Redux. Part II)
+- React & Redux #24 Список дел на Реакт и Редакс (ToDo Appliction: React & Redux. Part III)
 - React & Redux #25 Анимации (React animations)
 
 ## Автор курса в социальных сетях:
