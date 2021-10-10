@@ -1,11 +1,15 @@
-
-
-#  React & Redux Tutorials
+#  React & Redux
 
 ### Описание курса:
 В данном видео-курсе мы с вами рассмотрим базовые понятия фрэймворка **ReactJS**, актуальной на текущий момент версии **16.4**. Научимся создавать свои компоненты и элементарные приложения. Разберёмся, как подключается и как работает **React Router** и с его помощью напишем простое одностраничное приложение. А так же рассмотрим такой подход контроля данных в приложении, как **Redux**. И разберём как он взаимодействет с React, создав приложение - список задач.
 
-## Используемые ресурсы и инструменты:
+### Поддержать развитие канала:
+[<img alt="webDev | YouTube Sponsor" src="https://img.shields.io/badge/Become a sponsor-F70000.svg?&style=for-the-badge&logo=youtube&logoColor=fff" />][sponsor]
+[<img alt="webDev | Patreon" src="https://img.shields.io/badge/Become a patron-EF6451.svg?&style=for-the-badge&logo=patreon&logoColor=fff" />][patron]
+
+---
+
+### Используемые ресурсы и инструменты:
 - [Atom (Редактор кода)](https://atom.io/)
 - [Create React App (рабочее окружение)](https://github.com/facebook/create-react-app)
 - [React Developer Tools (расширение для браузера)](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ru)
@@ -16,7 +20,7 @@
 - [Hacker News (описание API)](https://hn.algolia.com/api)
 - [Redux-LocalStorage-Simple (репозиторий)](https://www.npmjs.com/package/redux-localstorage-simple)
 
-## Полезные ссылки:
+### Полезные ссылки:
 - [React (документация)](https://reactjs.org/docs/getting-started.html)
 - [Redux (документация)](https://redux.js.org/)
 - [React Animations (документация)](https://reactcommunity.org/react-transition-group/)
@@ -26,47 +30,60 @@
 - [React Transition Group (документация)](https://reactcommunity.org/react-transition-group/)
 - [React Router (репозиторий)](https://github.com/ReactTraining/react-router)
 
-## Быстрый старт
-- Установите [Create React App](https://github.com/facebook/create-react-app): `npm i -g create-react-app`
-- Создайте рабочую папку: `npx create-react-app react-tutorial`
-- Клонируйте репозиторий: `git clone https://github.com/YauhenKavalchuk/react-js-tutorial.git`
-- Переместите всё содержимое репозитория в рабочую папку
-- Установите зависимости: `yarn install` или `npm install`
-- Перейдите в нужную ветку соответствующую уроку: `git checkout 02_components` или `git checkout 03_state` и т.д.
+---
+
+### Быстрый старт:
+- Клонируйте репозиторий: `git clone https://github.com/YauhenKavalchuk/react-js.git`
+- Перейдите в папку с проектом `cd react-js`
+- Перейдите в нужную ветку соответствующую уроку:
+  - `git checkout 02_components2`
+  - `git checkout 03_state` и т.д.
+- Установите зависимости: `yarn install`
 - Запустите проект: `yarn start`
 
-## Список уроков:
-- React & Redux #0 Введение в курс (Introduction)
-- React & Redux #1 Плагины и окружение (Plugins & Environment)
-- React & Redux #2 Компоненты (Components)
-- React & Redux #3 Локальный стейт (State)
-- React & Redux #4 Пропсы и их валидация (Props & PropTypes. Part I)
-- React & Redux #5 Пропсы и их валидация (Props & PropTypes. Part II)
-- React & Redux #6 События (Handling Events)
-- React & Redux #7 Условный рендеринг (Conditional Rendering)
-- React & Redux #8 Списки и ключи (Lists & keys)
-- React & Redux #9 Фрагменты и стили (Fragments  & CSS)
-- React & Redux #10 Формы (Forms)
-- React & Redux #11 Методы жизненного цикла (Lifecycle methods)
-- React & Redux #12 Ссылки (Refs)
-- React & Redux #13 Компоненты высшего порядка (High Order Components)
-- React & Redux #14 Порталы (Portals)
-- React & Redux #15 Контекст (Context)
-- React & Redux #16 Работа с реальным API (React: work wit API. Part I)
-- React & Redux #17 Работа с реальным API (React: work wit API. Part II)
-- React & Redux #18 Роутер (React router. Part I)
-- React & Redux #19 Роутер (React router. Part II)
-- React & Redux #20 Введение в Редакс (Redux Introduction)
-- React & Redux #21 Приложение и Редакс модули (Application & Redux modules)
-- React & Redux #22 Список дел на Реакт и Редакс (ToDo Appliction: React & Redux. Part I)
-- React & Redux #23 Список дел на Реакт и Редакс (ToDo Appliction: React & Redux. Part II)
-- React & Redux #24 Список дел на Реакт и Редакс (ToDo Appliction: React & Redux. Part III)
-- React & Redux #25 Анимации (React animations)
+---
 
-## Автор курса в социальных сетях:
-Social network | Link to Profile
------|-----
-**LinkedIn:** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" height="20" />](http://www.linkedin.com/in/YauhenKavalchuk)
-**YouTube:** | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1280px-Logo_of_YouTube_%282015-2017%29.svg.png" height="27" />](https://youtube.com/c/YauhenKavalchuk)
-**VK:** | [<img src="http://pngimg.com/uploads/vkontakte/vkontakte_PNG27.png" height="25" />](http://vk.com/YauhenKavalchuk)
-**Twitter:** | [<img src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_logo_bird_transparent_png.png" height="25" />](https://twitter.com/YauhenKavalchuk)
+### Список уроков:
+- [#0 Введение в курс (Introduction)](https://youtu.be/2vujABNBFAY)
+- [#1 Плагины и окружение (Plugins & Environment)](https://youtu.be/BERZDjtdHIs)
+- [#2 Компоненты (Components)](https://youtu.be/COmtvBvBuqU)
+- [#3 Локальный стейт (State)](https://youtu.be/sPuhTFtL2XQ)
+- [#4 Пропсы и их валидация (Props & PropTypes. Part I)](https://youtu.be/ePpKIIqHt6I)
+- [#5 Пропсы и их валидация (Props & PropTypes. Part II)](https://youtu.be/kupztj-2318)
+- [#6 События (Handling Events)](https://youtu.be/hFgB5E0uL_Y)
+- [#7 Условный рендеринг (Conditional Rendering)](https://youtu.be/RfHw3oQRbgg)
+- [#8 Списки и ключи (Lists & keys)](https://youtu.be/stOttWwNncQ)
+- [#9 Фрагменты и стили (Fragments & CSS)](https://youtu.be/Z0S4wcyzLZc)
+- [#10 Формы (Forms)](https://youtu.be/LLum_dcrbFo)
+- [#11 Методы жизненного цикла (Lifecycle methods)](https://youtu.be/O8f6aXqpGHw)
+- [#12 Ссылки (Refs)](https://youtu.be/j5JKhPPVxRM)
+- [#13 Компоненты высшего порядка (High Order Components)](https://youtu.be/POHukHTiEL4)
+- [#14 Порталы (Portals)](https://youtu.be/xcWaYD4gZAs)
+- [#15 Контекст (Context)](https://youtu.be/W_-TO_reSGs)
+- [#16 Работа с реальным API (React: work with API. Part I)](https://youtu.be/np6k4FH6Hg8)
+- [#17 Работа с реальным API (React: work with API. Part II)](https://youtu.be/d2Z1D5Jvajc)
+- [#18 Роутер (React router. Part I)](https://youtu.be/lvIfuti1sug)
+- [#19 Роутер (React router. Part II)](https://youtu.be/j_RIqH9NwW0)
+- [#20 Введение в Редакс (Redux Introduction)](https://youtu.be/OmeRRVwWEmc)
+- [#21 Приложение и Редакс модули (Application & Redux modules)](https://youtu.be/qQx-phy5yjo)
+- [#22 Список дел на Реакт и Редакс (ToDo Appliction: React & Redux. Part I)](https://youtu.be/0kVenECLU_8)
+- [#23 Список дел на Реакт и Редакс (ToDo Appliction: React & Redux. Part II)](https://youtu.be/m5LIqjQSIwg)
+- [#24 Список дел на Реакт и Редакс (ToDo Appliction: React & Redux. Part III)](https://youtu.be/qwMBO2hVq9E)
+- [#25 Анимации (React animations)](https://youtu.be/GvtbwnaWr_M)
+
+---
+
+### Связаться со мной:
+[<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][youtube]
+[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][vk]
+
+[youtube]: https://youtube.com/YauhenKavalchuk
+[instagram]: https://instagram.com/YauhenKavalchuk
+[linkedin]: https://linkedin.com/in/YauhenKavalchuk
+[vk]: https://vk.com/YauhenKavalchuk
+[twitter]: https://twitter.com/YauhenKavalchuk
+[sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
+[patron]: https://www.patreon.com/YauhenKavalchuk
